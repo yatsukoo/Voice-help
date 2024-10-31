@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AliceHook": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:56570;http://localhost:56571"
+    }
+  }
+}
